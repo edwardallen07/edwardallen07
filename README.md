@@ -29,7 +29,7 @@ Stockify is my a level computer science coursework project project aimed at maki
 - Provide clear, digestible market data and portfolio tracking
 - Incorporate educational content to help users understand what they are trading and why
 
-*Repository link - *
+*Repository link - https://github.com/edwardallen07/Stockify-Coursework.git*
 
 ---
 
